@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="Local" userid="Player" nativeplatform="Local" nativeuserid="Player" playername="Player" playgroup="Standalone" lastlogin="2025-04-30 15:43:59" position="302,36,4" />
+  <player platform="Local" userid="Player" nativeplatform="Local" nativeuserid="Player" playername="Player" playgroup="Standalone" lastlogin="2025-05-01 20:30:31" position="1478,44,2118">
+    <lpblock pos="1472,38,2122" />
+    <lpblock pos="1508,61,2150" />
+    <bedroll pos="1470,38,2118" />
+  </player>
 </persistentplayerdata>
